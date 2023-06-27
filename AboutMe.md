@@ -1,0 +1,4 @@
+--> Meu nome é Renan, tenho 15 anos e gosto de programar por ser um Hobbie e procuro conhecimento principalmente em web.
+--> Tenho mais experiência com games, usando Unity e Unreal.
+--> Pretendo aprender mais sobre Git e Github além de linguagens de programação como JavaScript, TypeScript.
+--> A linguagem na qual tenho mais facilidade é C#.
